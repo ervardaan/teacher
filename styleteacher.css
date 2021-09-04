@@ -80,3 +80,25 @@ h1{color: red;text-align: center;}
 .indiv81{padding-top: 8%;padding-bottom: 8%;}
 .indiv82{padding-top: 8%;padding-bottom: 8%;}
 .indiv83{padding-top: 8%;padding-bottom: 8%;}
+.div9{clear: left;display: block;text-align: center;}
+.indiv91{text-align: center;background-image: linear-gradient(red, yellow, green);}
+.indiv92{text-align: center;background-image: linear-gradient(red, yellow, green);}
+.indiv93{text-align: center;background-image: linear-gradient(red, yellow, green);}
+.div9 h3{text-align: center;}
+.indiv91 a{padding-left: 8%;padding-right: 8%;}
+.indiv92 a{padding-left: 8%;padding-right: 8%;}
+.indiv93 a{padding-left: 8%;padding-right: 8%;}
+.div7 h2{background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+.div8 h3{background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+.div9 h3{background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);}
+.indiv81,.indiv82,.indiv83{background-image: linear-gradient(blue, yellow, black);}
+.indiv71,.indiv72,.indiv73,.indiv74,.indiv75,.indiv76,.indiv77,.indiv78,.indiv79,.indiv710,.indiv711,.indiv712{background-image: linear-gradient(green, red, white);}
+.div10{width: 45%;background-color:rgba(255, 99, 71,0.4);margin-top:2%;float: left;}
+.div9 a{color:white;}
+.div9 a:hover{color: black;}
+.div11{display: inline-block;width: 45%;float: left;margin-top: 2%;background-color:rgba(122,78,200,0.4);margin-left: 4%;}
+.indiv111,.indiv112{padding-top: 5%;padding-bottom: 5%;}
+.indiv111 p,.indiv112 p{padding-top: 12%;padding-bottom: 12%;}
+.indiv111 h4,.indiv112 h4{background-image: linear-gradient(white, red, green); }
+.div11 h2{background-image: linear-gradient(blue, red, green);}
+
